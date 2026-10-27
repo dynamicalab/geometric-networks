@@ -5,7 +5,7 @@
 This repository contains the code and notebooks used in the manuscript:
 
  
-> Antoine Légaré, Antoine Allard, Olivier Ribordy, Paul De Koninck, Patrick Desrosiers (2025). *Function aligns with geometry in locally connected neuronal networks.* Preprint available on [bioRxiv](https://www.biorxiv.org/content/10.1101/2025.08.08.669348v2)
+> Antoine Légaré, Olivier Ribordy, Paul De Koninck, Antoine Allard, Patrick Desrosiers (2026). *Function aligns with geometry in locally connected neuronal networks.* Preprint available on [bioRxiv](https://www.biorxiv.org/content/10.1101/2025.08.08.669348v2)
 
 
 ## Overview
@@ -21,7 +21,7 @@ Clone the repository, then run the notebooks in a Python environment equipped wi
 
 If you use this repository for your own work, please cite the paper:
 
-> Antoine Légaré, Antoine Allard, Olivier Ribordy, Paul De Koninck, Patrick Desrosiers (2025). *Function aligns with geometry in locally connected neuronal networks.* [DOI: 10.1101/2025.08.08.669348](https://doi.org/10.1101/2025.08.08.669348)
+> Antoine Légaré, Olivier Ribordy, Paul De Koninck, Antoine Allard, Patrick Desrosiers (2026). *Function aligns with geometry in locally connected neuronal networks.* [DOI: 10.1101/2025.08.08.669348](https://doi.org/10.1101/2025.08.08.669348)
 
 BibTeX:
 ```bibtex

@@ -10,7 +10,7 @@ print(device)
 # Loading data
 vertices = np.load('tectum_vertices_right.npy') * 40
 vertices = np.stack([vertices[:, 2], vertices[:, 1], vertices[:, 0]], axis=1)
-eigenmodes = np.load('tectum_eigenmodes_right.npy')[1:]
+eigenmodes = np.load('tectum_eigenmodes_right.npy')
 tectum = Geometry(vertices, eigenmodes.T)
 
 # Dynamical parameters
