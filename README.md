@@ -12,6 +12,8 @@ This repository contains the code and notebooks used in the manuscript:
 
 Analyses from the paper are conducted in multiple Jupyter notebooks found in the `Notebooks/` folder and generally split into 2 categories: some that compute results for specific figures of the paper (`FigureX-Analysis` notebooks), and some that take these results to generate vectorized figures (`FigureX-Layout` notebooks) for subsequent modifications using external software. All notebooks import functions in local `.py` files within the repository, and supplementary analyses are conducted in `Supp-` notebooks. Some analyses were computed externally on Compute Canada clusters, and the code can be accessed in the `ComputeCanada` folder. The processed data required to replicate the analyses can be downloaded [here](https://doi.org/10.5683/SP3/YKCS90), while the raw calcium imaging data can be made available upon request.
 
+See `flowchart.jpg` for an overview of the dependencies between notebooks.
+
 ## Installation
 
 
